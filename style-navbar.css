@@ -147,9 +147,9 @@
   transform: rotate(-45deg);
 }
 /* disparitia logo */
-.nav-container input[type="checkbox"]:checked ~ .logo{
+/* .nav-container input[type="checkbox"]:checked ~ .logo{
   display: none;
-}
+} */
 
 
 /* CUSTOM NAVBAR */
